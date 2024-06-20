@@ -48,7 +48,7 @@ ESLint: Ensure code quality and adhere to coding standards.
 Live Server: Instantly see changes in the browser while editing HTML, CSS, and JavaScript.
 GitLens: Enhances Git integration with features like blame annotations, repository history, and more.
 Prettier: Automatically formats my code to maintain consistent style across my project.
-I also installed python, python debugging, dart, flutter, code debugger.
+I also installed python, python debugging, dart, flutter, code debugger. i have 12 extensions installed 
 
 ![alt text](image-2.png)
 
