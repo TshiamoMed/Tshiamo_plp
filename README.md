@@ -70,8 +70,11 @@ answer:
    Basic data types in Python:
 
 int: Integer type, e.g., 42
+
 float: Floating-point number, e.g., 3.14
+
 str: String type, e.g., "Hello"
+
 bool: Boolean type, e.g., True or False
 
 the script : 
@@ -85,14 +88,20 @@ Answer:
 Conditional statements and loops are control structures that direct the flow of execution.
 
 example of an if-else statement: 
+
 age = 18
+
 if age >= 18:
+
     print("You are an adult.")
 else:
+
     print("You are a minor.")
 
 Example of a for loop:
+
 for i in range(5):
+
     print(i)
 
 
@@ -104,11 +113,15 @@ for i in range(5):
 Functions in Python are blocks of reusable code that perform a specific task. They help in organizing code and avoiding repetition.
 
 Function to return the sum of two arguments:
+
 def add(a, b):
+
     return a + b
 
 # Calling the function
+
 result = add(5, 3)
+
 print(result)  # Output: 8
 
 
@@ -118,6 +131,7 @@ print(result)  # Output: 8
    Answer:
 
 List: An ordered collection of items, accessed by index.
+
 Dictionary: An unordered collection of key-value pairs, accessed by key.
 
 Script:
@@ -139,6 +153,7 @@ Example:
    Answer:
 
 Module: A file containing Python code, which can include functions, classes, and variables.
+
 Package: A collection of modules organized in directories.
 
 Example using the math module:
